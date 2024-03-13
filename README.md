@@ -7,12 +7,12 @@ This repository contains Python code snippets for various image processing techn
 The `Canny_detector` function implements the Canny edge detection algorithm. It performs gradient calculation, non-maximum suppression, and double thresholding to detect edges in an image. The result is displayed using matplotlib.
 
 
-Gradient Calculation
+## Gradient Calculation
 
 The gradient_x and gradient_y functions calculate the x and y gradients of an image using the Sobel operator. These gradients are then used for further processing, such as edge detection or feature extraction.
 
 
-Harris Corner Detection
+## Harris Corner Detection
 
 The my_harris function implements the Harris corner detection algorithm. It computes image derivatives, calculates the response function, and applies a threshold to detect corners in an image. The result is visualized using matplotlib.
 

@@ -1,6 +1,6 @@
-# Image Processing Techniques in Python
+# Edge Detection Techniques in Python
 
-This repository contains Python code snippets for various image processing techniques, including Canny edge detection, gradient calculation, Harris corner detection, and Gaussian filtering.
+This repository contains Python code snippets for various Edge Detection techniques, including Canny edge detection, gradient calculation, Harris corner detection, and Gaussian filtering.
 
 ## Canny Edge Detection
 
